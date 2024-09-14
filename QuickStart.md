@@ -7,7 +7,7 @@
 
 ## Before We Start
 
-Before using PR-SnapView, ensure that you have checked the [Prerequisites.md](/Users/piotr.zadora/AquaProjects/PR-SnapView-plugin/Prerequisites.md) file and prepared your environment.
+Before using PR-SnapView, ensure that you have checked the [Prerequisites.md](https://github.com/itRunFenix/PR-SnapView-plugin/blob/master/Prerequisites.md) file and prepared your environment.
 
 ## Quick Start Guide
 
@@ -127,9 +127,9 @@ Once configured, you can generate the Pull Request dashboard by following these 
 ### 5. **Troubleshooting**
 
    If you encounter any issues:
-   - Ensure that all required tools are installed and properly configured. [Prerequisites.md](/Users/piotr.zadora/AquaProjects/PR-SnapView-plugin/Prerequisites.md)
+   - Ensure that all required tools are installed and properly configured. [Prerequisites.md](https://github.com/itRunFenix/PR-SnapView-plugin/blob/master/Prerequisites.md)
    - Check the plugin settings for any misconfigurations.
-   - Refer to the [Troubleshooting.md](/Users/piotr.zadora/AquaProjects/PR-SnapView-plugin/Troubleshooting.md) for common issues and solutions.
+   - Refer to the [Troubleshooting.md](https://github.com/itRunFenix/PR-SnapView-plugin/blob/master/Troubleshooting.md) for common issues and solutions.
 
 ## Additional Resources
 
