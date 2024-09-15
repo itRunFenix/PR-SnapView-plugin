@@ -3,6 +3,7 @@
   <component name="PluginSettingsState">
     <option name="prFilterType" value="assignee" />
     <option name="prFilterValue" value="RunnerSec" />
-    <option name="repositoryPath" value="$PROJECT_DIR$/../gh-pr-plugin" />
+    <option name="preferredBrowser" value="Chrome" />
+    <option name="repositoryPath" value="$PROJECT_DIR$" />
   </component>
 </project>
