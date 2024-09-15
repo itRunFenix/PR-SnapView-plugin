@@ -19,11 +19,11 @@ For more details and to install the plugin, visit the [JetBrains Marketplace](ht
 
 ## Getting Started
 
-- Once the plugin is installed, please follow our [Prerequisites guide](link-to-prerequisites.md) for a step-by-step list of requirements to prepare your environment. 
-- After completing the setup, follow our [Quick Start guide](link-to-quick-start.md) for a step-by-step guide with screenshots to get up and running quickly. 
+- Once the plugin is installed, please follow our [Prerequisites.md](https://github.com/itRunFenix/PR-SnapView-plugin/blob/master/Prerequisites.md) for a step-by-step list of requirements to prepare your environment. 
+- After completing the setup, follow our [Quick Start guide](https://github.com/itRunFenix/PR-SnapView-plugin/blob/master/QuickStart.md) for a step-by-step guide with screenshots to get up and running quickly. 
 - You can then start generating dashboards for your Pull Requests by configuring the plugin settings to specify the author or assignee for whom you want to view the open pull requests.
 
-If you encounter any issues or need assistance, please refer to the [Troubleshooting Guide](link-to-troubleshooting.md) or open an issue on the [GitHub repository](https://github.com/itRunFenix/PR-SnapView-plugin/issues).
+If you encounter any issues or need assistance, please refer to the [Troubleshooting.md](https://github.com/itRunFenix/PR-SnapView-plugin/blob/master/Troubleshooting.md) or open an issue on the [GitHub repository](https://github.com/itRunFenix/PR-SnapView-plugin/issues).
 
 
 ---
