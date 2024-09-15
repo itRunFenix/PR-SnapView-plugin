@@ -24,6 +24,7 @@ If you encounter problems with the PR-SnapView plugin that you cannot resolve, p
     - To assist in diagnosing the issue, attach the IDE logs. You can find the logs in the IDE under `Help > Show Log in Explorer/Finder`.
 
 
+```
 ## Issue Template
 
 ### [Title]
@@ -53,6 +54,7 @@ If you encounter problems with the PR-SnapView plugin that you cannot resolve, p
 
 **Screenshots:**
 - (Include any relevant screenshots that illustrate the problem)
+```
 
 
 ## Issue Processing
