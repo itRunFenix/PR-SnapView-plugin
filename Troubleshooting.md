@@ -36,7 +36,7 @@ If the dashboard is not generated properly:
 - Verify that all required tools, such as GitHub CLI and `jq`, are installed (see [Prerequisites.md](https://github.com/itRunFenix/PR-SnapView-plugin/blob/master/Prerequisites.md)).
 - If errors occur, try regenerating the dashboard and review the IDE logs for more information.
 
-- **Known Issue** 
+- **Known Issue:** 
   - [Error after run PR-SnapView for **very first time** on a particular repository](https://github.com/itRunFenix/PR-SnapView-plugin/issues/2)
 
 ---
@@ -90,10 +90,11 @@ If no pull requests are displayed:
 
 If you encounter problems you cannot resolve, report them:
 
+- Before reporting an issue, please check for useful information here: [BUG](https://github.com/itRunFenix/PR-SnapView-plugin/blob/master/BUG.md).
 - Create an issue on the [Issues](https://github.com/itRunFenix/PR-SnapView-plugin/issues) section of the GitHub repository.
 - Include details such as the IDE version, plugin version, OS name and version and steps to reproduce the problem.
 - You may also attach IDE logs to help diagnose the issue (logs can be found in `Help` > `Show Log in Explorer/Finder`).
-- Before reporting an issue, please check for useful information here: [BUG](https://github.com/itRunFenix/PR-SnapView-plugin/blob/master/BUG.md).
+
 ---
 
 ## Additional Resources

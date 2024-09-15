@@ -137,5 +137,3 @@ Once configured, you can generate the Pull Request dashboard by following these 
 - [GitHub CLI Documentation](https://cli.github.com/)
 - [jq Documentation](https://stedolan.github.io/jq/)
 - [sed Documentation](https://www.gnu.org/software/sed/manual/sed.html)
-
-Feel free to explore more features and options available in PR-SnapView to customize your dashboard according to your needs.
