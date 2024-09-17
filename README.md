@@ -2,7 +2,7 @@
 
 ![PR-SnapView-icon](images/PR-SnapView-icon.png)
 
-### PR-SnapView is a plugin that generates an HTML dashboard with information about **open** Pull Requests for a given author or assignee.
+## PR-SnapView is a plugin designed for JetBrains IDEs, which generates an HTML dashboard with information about open Pull Requests from GitHub for a given author or assignee.
 
 > **_Please note that any actions or decisions related to pull requests should be taken after reviewing the pull requests directly on GitHub._**
 > **_PR-SnapView is intended for informational purposes only and provides an overview of pull requests._**

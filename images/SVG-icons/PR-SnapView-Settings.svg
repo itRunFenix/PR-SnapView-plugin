@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Koło zębate -->
+  <g transform="translate(32, 32)">
+    <!-- Zewnętrzne zęby -->
+    <circle cx="0" cy="0" r="14" fill="#6a5acd" />
+    <g stroke="#483d8b" stroke-width="2" fill="none">
+      <!-- Zęby -->
+      <path d="M-9,-20 L-12,-22 M9,-20 L12,-22 M-9,20 L-12,22 M9,20 L12,22 M-20,-9 L-22,-12 M20,-9 L22,-12 M-20,9 L-22,12 M20,9 L22,12"/>
+    </g>
+    
+    <!-- Wewnętrzne zęby -->
+    <circle cx="0" cy="0" r="8" fill="#483d8b" />
+    <circle cx="0" cy="0" r="3" fill="#6a5acd" />
+  </g>
+</svg>

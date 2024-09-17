@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="PluginSettingsState">
-    <option name="prFilterType" value="assignee" />
-    <option name="prFilterValue" value="RunnerSec" />
-    <option name="preferredBrowser" value="Chrome" />
-    <option name="repositoryPath" value="$PROJECT_DIR$" />
+    <option name="autoOpenDashboard" value="true" />
+    <option name="issuePrefix" value="ONE" />
+    <option name="jiraHost" value="https://appfire.atlassian.net" />
+    <option name="prFilterValue" value="dpdudek88" />
+    <option name="repositoryPath" value="$USER_HOME$/workspace/github-appfire/ppm" />
   </component>
 </project>

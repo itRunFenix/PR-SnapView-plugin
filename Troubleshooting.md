@@ -45,6 +45,7 @@ If the dashboard is not generated properly:
 
 If the dashboard doesn't open in the browser:
 
+- Be aware that clicking "OK" in the `PR-SnapView Settings` window does not generate the dashboard but only saves the settings. To generate the dashboard, click `Generate PR-SnapView`
 - Make sure the "Open dashboard in external browser" option is enabled in the plugin settings.
 - Verify that the specified browser is correctly configured. If needed, manually set the browser in the settings.
 - If you prefer opening the dashboard inside the IDE, ensure that the option is activated.
