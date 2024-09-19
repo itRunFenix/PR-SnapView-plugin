@@ -15,7 +15,7 @@ To get started with PR-SnapView, you need to install the plugin. Follow the step
 3. **Search for PR-SnapView**: Use the search functionality to find the PR-SnapView plugin.
 4. **Install the Plugin**: Follow the prompts to install PR-SnapView.
 
-For more details and to install the plugin, visit the [JetBrains Marketplace](https://plugins.jetbrains.com/).
+For more details and to install the plugin, visit the [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/25326-pr-snapview).
 
 ## Getting Started
 
